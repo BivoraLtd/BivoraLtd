@@ -25,7 +25,7 @@ We work with the latest and most reliable technologies, including:
 ## 🚧 Featured Projects
 Here are some of our latest projects:
 - **[Street's Got Talent](https://www.streetgottalent.com/)**: Brief description of the project and its key features.
-- **[Project Name 2](https://www.trendstalkhubb.info/)**: Another brief description highlighting what the project achieved.
+- **[TrendsTalkHubb](https://www.trendstalkhubb.info/)**: Another brief description highlighting what the project achieved.
 
 ---
 
@@ -36,6 +36,13 @@ Looking to bring your software ideas to life? We would love to partner with you!
 
 ---
 
+
+## 👥 Meet the Team
+We are a team that thrives on collaboration and creativity. Here are a few of our core members:
+- - **[@Great Alexander]([https://github.com/devalexdgreat])** - Frontend Developer | react and nextJs
+- - **[@Cynthia Abah]([https://github.com/Cynthie-Abah])** - Frontend Developer | react and nextJs
+
+---
 
 ## 📈 Our Process
 1. **Discovery**: We start by understanding your needs, goals, and challenges.
